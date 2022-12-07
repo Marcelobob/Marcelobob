@@ -1,0 +1,848 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS | VARIEDADES",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204452
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS | VARIEDADES",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204453
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS | VARIEDADES",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204454
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="CANAIS | VARIEDADES",Food Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204530
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="CANAIS | VARIEDADES",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204531
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="CANAIS | VARIEDADES",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204532
+#EXTINF:0 tvg-id="Gnt.br" group-title="CANAIS | VARIEDADES",GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204335
+#EXTINF:0 tvg-id="Gnt.br" group-title="CANAIS | VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204336
+#EXTINF:0 tvg-id="Gnt.br" group-title="CANAIS | VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204337
+#EXTINF:0 tvg-id="Lifetime.br" group-title="CANAIS | VARIEDADES",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204536
+#EXTINF:0 tvg-id="Lifetime.br" group-title="CANAIS | VARIEDADES",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204537
+#EXTINF:0 tvg-id="Lifetime.br" group-title="CANAIS | VARIEDADES",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204538
+#EXTINF:0 tvg-id="+globosat.br" group-title="CANAIS | VARIEDADES",Mais Globosat FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204398
+#EXTINF:0 tvg-id="+globosat.br" group-title="CANAIS | VARIEDADES",Mais Globosat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204399
+#EXTINF:0 tvg-id="+globosat.br" group-title="CANAIS | VARIEDADES",Mais Globosat SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204400
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS | VARIEDADES",Viva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204374
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS | VARIEDADES",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204375
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS | VARIEDADES",VIVA HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203941
+
+#EXTINF:0 tvg-id="Bis.br" group-title="CANAIS | MÚSICAS",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204404
+#EXTINF:0 tvg-id="Bis.br" group-title="CANAIS | MÚSICAS",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204405
+#EXTINF:0 tvg-id="Bis.br" group-title="CANAIS | MÚSICAS",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204406
+#EXTINF:0 tvg-id="VH1.br" group-title="CANAIS | MÚSICAS",MTV 00s FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204449
+#EXTINF:0 tvg-id="VH1.br" group-title="CANAIS | MÚSICAS",MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204450
+#EXTINF:0 tvg-id="VH1.br" group-title="CANAIS | MÚSICAS",MTV 00s SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204451
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS | MÚSICAS",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204446
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS | MÚSICAS",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204447
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS | MÚSICAS",MTV LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204602
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS | MÚSICAS",MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204603
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="CANAIS | MÚSICAS",MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204604
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS | MÚSICAS",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204448
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS | MÚSICAS",MULTISHOW FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204338
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS | MÚSICAS",MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204339
+
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204440
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204441
+#EXTINF:0 tvg-id="Bandsports.br" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204442
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS | ESPORTES",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204380
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS | ESPORTES",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204381
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ESPORTES",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203548
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS | ESPORTES",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204382
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS | ESPORTES",FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204320
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS | ESPORTES",FOX Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204321
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS | ESPORTES",FOX Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204322
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS | ESPORTES",OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204395
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS | ESPORTES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204396
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS | ESPORTES",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204397
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204566
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204567
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204568
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS | DOCUMENTÁRIOS",DISC. HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204326
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS | DOCUMENTÁRIOS",DISC. HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204327
+#EXTINF:0 tvg-id="Homehealth.br" group-title="CANAIS | DOCUMENTÁRIOS",DISC. HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204328
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204311
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204312
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203568
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204313
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204626
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204627
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY ID SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204628
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204614
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204615
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204616
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theater FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204620
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204621
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204622
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204329
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204330
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204331
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204623
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204624
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS | DOCUMENTÁRIOS",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204625
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS | DOCUMENTÁRIOS",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204356
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS | DOCUMENTÁRIOS",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204357
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS | DOCUMENTÁRIOS",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204358
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS | DOCUMENTÁRIOS",History FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204551
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS | DOCUMENTÁRIOS",History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204552
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS | DOCUMENTÁRIOS",History SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204553
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204419
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204420
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS | DOCUMENTÁRIOS",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204421
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204587
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204588
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | DOCUMENTÁRIOS",Smithsonian SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204589
+#EXTINF:0 tvg-id="Tlc.br" group-title="CANAIS | DOCUMENTÁRIOS",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204308
+#EXTINF:0 tvg-id="Tlc.br" group-title="CANAIS | DOCUMENTÁRIOS",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204309
+#EXTINF:0 tvg-id="Tlc.br" group-title="CANAIS | DOCUMENTÁRIOS",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204310
+
+#EXTINF:0 tvg-id="Ae.br" group-title="CANAIS | FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204359
+#EXTINF:0 tvg-id="Ae.br" group-title="CANAIS | FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204360
+#EXTINF:0 tvg-id="Ae.br" group-title="CANAIS | FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204361
+#EXTINF:0 tvg-id="Amc.br" group-title="CANAIS | FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204593
+#EXTINF:0 tvg-id="Amc.br" group-title="CANAIS | FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204594
+#EXTINF:0 tvg-id="Amc.br" group-title="CANAIS | FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204595
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS | FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204560
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS | FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204561
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS | FILMES E SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204562
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204377
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204378
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204379
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204410
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204411
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS | FILMES E SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204412
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS | FILMES E SERIES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204428
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS | FILMES E SERIES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204429
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS | FILMES E SERIES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204430
+#EXTINF:0 tvg-id="Megapix.br" group-title="CANAIS | FILMES E SERIES",Megapix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204518
+#EXTINF:0 tvg-id="Megapix.br" group-title="CANAIS | FILMES E SERIES",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204519
+#EXTINF:0 tvg-id="Megapix.br" group-title="CANAIS | FILMES E SERIES",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204520
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CANAIS | FILMES E SERIES",Paramount FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204455
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CANAIS | FILMES E SERIES",Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204456
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CANAIS | FILMES E SERIES",Paramount SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204457
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS | FILMES E SERIES",SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204557
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS | FILMES E SERIES",SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204558
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS | FILMES E SERIES",SONY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203856
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS | FILMES E SERIES",SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204559
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS | FILMES E SERIES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204488
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS | FILMES E SERIES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204489
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS | FILMES E SERIES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204490
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS | FILMES E SERIES",Studio Universal FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204533
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS | FILMES E SERIES",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204534
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS | FILMES E SERIES",STUDIO UNIVERSAL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203870
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS | FILMES E SERIES",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204535
+#EXTINF:0 tvg-id="Syfy.br" group-title="CANAIS | FILMES E SERIES",SYFY SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203874
+#EXTINF:0 tvg-id="Tbs.br" group-title="CANAIS | FILMES E SERIES",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204479
+#EXTINF:0 tvg-id="Tbs.br" group-title="CANAIS | FILMES E SERIES",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204480
+#EXTINF:0 tvg-id="Tbs.br" group-title="CANAIS | FILMES E SERIES",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204481
+#EXTINF:0 tvg-id="Tcm.br" group-title="CANAIS | FILMES E SERIES",TCM SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203898
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS | FILMES E SERIES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204485
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS | FILMES E SERIES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204486
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS | FILMES E SERIES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204487
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS | FILMES E SERIES",TNT SERIES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203909
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS | FILMES E SERIES",TNT Séries FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204482
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS | FILMES E SERIES",TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204483
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS | FILMES E SERIES",TNT Séries SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204484
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS | FILMES E SERIES",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204554
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS | FILMES E SERIES",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204555
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS | FILMES E SERIES",WARNER CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203944
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS | FILMES E SERIES",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204556
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203935
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS | FILMES E SERIES",Universal Channel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204383
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS | FILMES E SERIES",Universal Channel TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204384
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS | FILMES E SERIES",UNIVERSAL CHANNEL TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204385
+
+#EXTINF:0 tvg-id="Ae.br" group-title="CANAIS | H265",A&E FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203500
+#EXTINF:0 tvg-id="Amc.br" group-title="CANAIS | H265",AMC FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203968
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="CANAIS | H265",ANIMAL PLANET FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203503
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",BAND SP FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203515
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS | H265",BAND NEWS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203517
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",BAND SPORTS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203521
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",BIS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203524
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="CANAIS | H265",CANAL BRASIL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203530
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS | H265",CINEMAX FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203536
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",CNN BRASIL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203539
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="CANAIS | H265",COMEDY CENTRAL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203550
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",DISC. HOME & HEALTH FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203570
+#EXTINF:0 tvg-id="Discovery.br" group-title="CANAIS | H265",DISCOVERY CHANNEL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203567
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="CANAIS | H265",DISCOVERY ID FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203573
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="CANAIS | H265",DISCOVERY SCIENCE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203579
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",DISCOVERY THEATHER FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203582
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="CANAIS | H265",DISCOVERY TURBO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203585
+#EXTINF:0 tvg-id="Discoveryworldhd.br" group-title="CANAIS | H265",DISCOVERY WORLD FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203588
+#EXTINF:0 tvg-id="Fx.br" group-title="CANAIS | H265",FX FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203656
+#EXTINF:0 tvg-id="H2.br" group-title="CANAIS | H265",H2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203724
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS | H265",HBO 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203727
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS | H265",HBO FAMILY FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203730
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS | H265",HBO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203733
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | H265",HBO MUNDI FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203735
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | H265",HBO PLUS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203738
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | H265",HBO POP FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203741
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | H265",HBO SIGNATURE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203745
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | H265",HBO XTREME FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203748
+#EXTINF:0 tvg-id="Historychannel.br" group-title="CANAIS | H265",HISTORY FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203899
+#EXTINF:0 tvg-id="Lifetime.br" group-title="CANAIS | H265",LIFETIME FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203760
+#EXTINF:0 tvg-id="+globosat.br" group-title="CANAIS | H265",MAIS GLOBOSAT FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203763
+#EXTINF:0 tvg-id="Megapix.br" group-title="CANAIS | H265",MEGAPIX FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203766
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS | H265",MTV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203769
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",MTV LIVE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203937
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS | H265",MULTISHOW FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203772
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="CANAIS | H265",NATGEO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203778
+#EXTINF:0 tvg-id="Off.br" group-title="CANAIS | H265",OFF FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203795
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="CANAIS | H265",PARAMOUNT CHANNEL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203798
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS | H265",RECORD FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203832
+#EXTINF:0 tvg-id="Recordnews.br" group-title="CANAIS | H265",RECORD NEWS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203835
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | H265",REDETV! FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203846
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS | H265",SBT FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203849
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS | H265",SBT SP VTV CAMPINAS E LITORAL SP FHD H265³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249418
+#EXTINF:0 tvg-id="Sony.br" group-title="CANAIS | H265",SONY FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203854
+#EXTINF:0 tvg-id="Space.br" group-title="CANAIS | H265",SPACE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203857
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | H265",SPORTV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203866
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | H265",SPORTV 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203860
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS | H265",SPORTV 3 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203863
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | H265",STAR CHANNEL H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203635
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",STAR HITS 2 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203646
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | H265",STAR HITS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203643
+#EXTINF:0 tvg-id="Foxlife.br" group-title="CANAIS | H265",STAR LIFE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203637
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="CANAIS | H265",STUDIO UNIVERSAL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203869
+#EXTINF:0 tvg-id="Syfy.br" group-title="CANAIS | H265",SYFY FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203872
+#EXTINF:0 tvg-id="Tbs.br" group-title="CANAIS | H265",TBS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203875
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | H265",TC ACTION FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203878
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | H265",TC CULT FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203881
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | H265",TC FUN FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203884
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | H265",TC PIPOCA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203887
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | H265",TC PREMIUM FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203890
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | H265",TC TOUCH FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203893
+#EXTINF:0 tvg-id="Tcm.br" group-title="CANAIS | H265",TCM FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203896
+#EXTINF:0 tvg-id="Tlc.br" group-title="CANAIS | H265",TLC FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203902
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS | H265",TNT FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203905
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="CANAIS | H265",TNT SERIES FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203908
+#EXTINF:0 tvg-id="Viva.br" group-title="CANAIS | H265",VIVA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203940
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="CANAIS | H265",WARNER CHANNEL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203943
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="CANAIS | H265",UNIVERSAL CHANNEL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203934
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | LEGENDADOS",AXN FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249937
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS | LEGENDADOS",AXN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249936
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS | LEGENDADOS",HBO FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249939
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | LEGENDADOS",HBO MUNDI FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249945
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | LEGENDADOS",HBO MUNDI HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249944
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | LEGENDADOS",HBO PLUS FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249941
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | LEGENDADOS",HBO PLUS HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249940
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | LEGENDADOS",HBO POP FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249947
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | LEGENDADOS",HBO POP HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249946
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249943
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | LEGENDADOS",HBO SIGNATURE HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249942
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | LEGENDADOS",HBO XTREME FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249938
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | LEGENDADOS",HBO XTREME HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249948
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | LEGENDADOS",STAR CHANNEL FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249935
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | LEGENDADOS",STAR CHANNEL HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249934
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | LEGENDADOS",TC ACTION FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249954
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | LEGENDADOS",TC ACTION HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249953
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | LEGENDADOS",TC CULT FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249960
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | LEGENDADOS",TC CULT HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249959
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | LEGENDADOS",TC FUN FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249958
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | LEGENDADOS",TC FUN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249957
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | LEGENDADOS",TC PIPOCA FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249950
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | LEGENDADOS",TC PIPOCA HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249949
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | LEGENDADOS",TC PREMIUM FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249952
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | LEGENDADOS",TC PREMIUM HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249951
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | LEGENDADOS",TC TOUCH FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249956
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | LEGENDADOS",TC TOUCH HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249955
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204638
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204637
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203516
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | ABERTOS",BAND SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203520
+#EXTINF:0 tvg-id="Bandsp.br" group-title="CANAIS | ABERTOS",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204636
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | ABERTOS",REDETV! FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204653
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | ABERTOS",REDETV! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204652
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | ABERTOS",REDETV! HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203847
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | ABERTOS",REDETV! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204651
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS | ABERTOS",REDETV! SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203848
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS | ABERTOS",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204641
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS | ABERTOS",SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204640
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS | ABERTOS",SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204639
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS | ABERTOS",TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204650
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS | ABERTOS",TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204649
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="CANAIS | ABERTOS",TV GAZETA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204648
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204443
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204444
+#EXTINF:0 tvg-id="Bandnews.br" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204445
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204347
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204348
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203540
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204349
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",FOX NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203641
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",FOX NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203642
+#EXTINF:0 tvg-id="Globonews.br" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204506
+#EXTINF:0 tvg-id="Globonews.br" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204507
+#EXTINF:0 tvg-id="Globonews.br" group-title="CANAIS | NOTÍCIAS",GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204508
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",JOVEM PAM NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204662
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",JOVEM PAM NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204663
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | NOTÍCIAS",JOVEM PAM NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204664
+#EXTINF:0 tvg-id="Recordnews.br" group-title="CANAIS | NOTÍCIAS",RECORD NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203836
+#EXTINF:0 tvg-id="Recordnews.br" group-title="CANAIS | NOTÍCIAS",RECORD NEWS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203837
+
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS | ESPN",ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264896
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS | ESPN",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264894
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS | ESPN",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264892
+#EXTINF:0 tvg-id="ESPN2.us" group-title="CANAIS | ESPN",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264901
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS | ESPN",ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264899
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="CANAIS | ESPN",ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264897
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="CANAIS | ESPN",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204437
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="CANAIS | ESPN",ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204438
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="CANAIS | ESPN",ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204439
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS | ESPN",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204317
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS | ESPN",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204318
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS | ESPN",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204319
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS | ESPN",ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204494
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS | ESPN",ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204495
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS | ESPN",ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204496
+
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204353
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203692
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204354
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203693
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204355
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203694
+#EXTINF:0 tvg-id="Tvtribuna.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/252043
+#EXTINF:0 tvg-id="Tvtribuna.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249688
+#EXTINF:0 tvg-id="Tvtribuna.br" group-title="CANAIS | GLOBO SUDESTE",GLOBO TV TRIBUNA SANTOS SD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/249687
+
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS | HBO",HBO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203728
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204467
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204468
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CANAIS | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204469
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS | HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204458
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS | HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204459
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | HBO",HBO MUNDI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204413
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | HBO",HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204414
+#EXTINF:0 tvg-id="Max.br" group-title="CANAIS | HBO",HBO MUNDI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204415
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | HBO",HBO POP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204473
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | HBO",HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204474
+#EXTINF:0 tvg-id="Maxup.br" group-title="CANAIS | HBO",HBO POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204475
+#EXTINF:0 tvg-id="Hbo.br" group-title="CANAIS | HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204460
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204470
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204471
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="CANAIS | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204472
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | HBO",HBO XTREME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204416
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | HBO",HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204417
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CANAIS | HBO",HBO XTREME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204418
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | HBO",HBO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204464
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | HBO",HBO+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204465
+#EXTINF:0 tvg-id="Hboplus.br" group-title="CANAIS | HBO",HBO+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204466
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS | HBO",HBO2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204461
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS | HBO",HBO2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204462
+#EXTINF:0 tvg-id="Hbo2.br" group-title="CANAIS | HBO",HBO2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204463
+
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="PT: MUSICA",CLUBBING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247890
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="PT: MUSICA",M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247891
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="PT: MUSICA",MCM POP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247888
+#EXTINF:0 tvg-id="mcm-top" group-title="PT: MUSICA",MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247887
+#EXTINF:0 tvg-id="mezzo-hd" group-title="PT: MUSICA",MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247889
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="PT: MUSICA",MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247886
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="PT: MUSICA",MTV PORTUGAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/247885
+
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204386
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204387
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203824
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204388
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203825
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204389
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204390
+#EXTINF:0 tvg-id="Premiere2.br" group-title="CANAIS | PREMIERE",PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204391
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204294
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204295
+#EXTINF:0 tvg-id="Premiere3.br" group-title="CANAIS | PREMIERE",PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204296
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204341
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204342
+#EXTINF:0 tvg-id="Premiere4.br" group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204343
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204392
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204393
+#EXTINF:0 tvg-id="Premiere5.br" group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204394
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204365
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204366
+#EXTINF:0 tvg-id="Premiere6.br" group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204367
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204368
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204369
+#EXTINF:0 tvg-id="Premiere7.br" group-title="CANAIS | PREMIERE",PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204370
+#EXTINF:0 tvg-id="Premiere8.br" group-title="CANAIS | PREMIERE",PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204665
+
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS | RECORDTV",RECORD SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204629
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS | RECORDTV",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204655
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | RECORDTV",RECORD SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203834
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS | RECORDTV",RECORD SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204654
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS | RECORDTV",RECORD SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203840
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | SPORTV",SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204290
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | SPORTV",SPORTV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203867
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | SPORTV",SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264969
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | SPORTV",SPORTV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203868
+#EXTINF:0 tvg-id="Sportv.br" group-title="CANAIS | SPORTV",SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204293
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | SPORTV",SPORTV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204287
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | SPORTV",SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204288
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | SPORTV",SPORTV 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203861
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | SPORTV",SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204289
+#EXTINF:0 tvg-id="Sportv2.br" group-title="CANAIS | SPORTV",SPORTV 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/203862
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS | SPORTV",SPORTV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204371
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS | SPORTV",SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204372
+#EXTINF:0 tvg-id="Sportv3.br" group-title="CANAIS | SPORTV",SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204373
+#EXTINF:0 tvg-id="Foxsports.br" group-title="CANAIS | SPORTV",SPORTV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204155
+
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | STAR CHANNEL",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204425
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | STAR CHANNEL",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204426
+#EXTINF:0 tvg-id="Fox.br" group-title="CANAIS | STAR CHANNEL",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204427
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | STAR CHANNEL",Star Hits 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204574
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | STAR CHANNEL",Star Hits SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204571
+#EXTINF:0 tvg-id="Foxlife.br" group-title="CANAIS | STAR CHANNEL",Star Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204431
+#EXTINF:0 tvg-id="Foxlife.br" group-title="CANAIS | STAR CHANNEL",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204432
+#EXTINF:0 tvg-id="Foxlife.br" group-title="CANAIS | STAR CHANNEL",Star Life SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204433
+
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | TELECINE",TC ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204521
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | TELECINE",TC ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204522
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS | TELECINE",TC ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204523
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | TELECINE",TC CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204527
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | TELECINE",TC CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204528
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS | TELECINE",TC CULT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204529
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | TELECINE",TC FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204524
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | TELECINE",TC FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204525
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS | TELECINE",TC FUN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204526
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | TELECINE",TC PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204515
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | TELECINE",TC PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204516
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS | TELECINE",TC PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204517
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | TELECINE",TC PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204509
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | TELECINE",TC PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204510
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS | TELECINE",TC PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204511
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | TELECINE",TC TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204512
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | TELECINE",TC TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204513
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS | TELECINE",TC TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/204514
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 2022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264194
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264195
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264196
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264197
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264198
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264199
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264200
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",FAZENDA 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264201
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 1&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/8881240/3511019/264202
+
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento & Músicas ",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/1849
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento & Músicas ",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2166
+#EXTINF:0 tvg-id="mtv-rus" group-title="Entretenimento & Músicas ",MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2165
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento & Músicas ",MTV Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/1150
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento & Músicas ",MTV Live FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/1850
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento & Músicas ",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2270
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Entretenimento & Músicas ",MTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2269
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Entretenimento & Músicas ",VH1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/1873
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Entretenimento & Músicas ",VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2260
+#EXTINF:0 tvg-id="vh1-europe" group-title="Entretenimento & Músicas ",VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2259
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento & Músicas ",VH1 Alternativo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/1242
+#EXTINF:0 tvg-id="Vh1MegaHits.cl" group-title="Entretenimento & Músicas ",VH1 Mega Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=IPTV GRATIS SERVIDOR 2&maxbitrate=0&buffer=20191129153332&url=http://dns.acaidopara.net:8080/luizedu110321euad/2228130922euad/2261
